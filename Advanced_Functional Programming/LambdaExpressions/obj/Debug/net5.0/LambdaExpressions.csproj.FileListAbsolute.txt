@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\ref\LambdaExpressions.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\bin\Debug\net5.0\LambdaExpressions.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\ref\LambdaExpressions.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\LambdaExpressions\obj\Debug\net5.0\LambdaExpressions.genruntimeconfig.cache

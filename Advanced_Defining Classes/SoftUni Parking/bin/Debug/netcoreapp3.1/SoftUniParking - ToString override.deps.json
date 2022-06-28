@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SoftUniParking - ToString override/1.0.0": {
+        "runtime": {
+          "SoftUniParking - ToString override.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftUniParking - ToString override/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

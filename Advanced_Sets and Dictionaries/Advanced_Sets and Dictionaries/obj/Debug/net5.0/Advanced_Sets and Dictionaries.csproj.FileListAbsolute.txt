@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\Advanced_Sets and Dictionaries.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\Advanced_Sets and Dictionaries.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\Advanced_Sets and Dictionaries.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\Advanced_Sets and Dictionaries.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\Advanced_Sets and Dictionaries.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\ref\Advanced_Sets and Dictionaries.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\bin\Debug\net5.0\Advanced_Sets and Dictionaries.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\ref\Advanced_Sets and Dictionaries.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Advanced_Sets and Dictionaries\obj\Debug\net5.0\Advanced_Sets and Dictionaries.genruntimeconfig.cache

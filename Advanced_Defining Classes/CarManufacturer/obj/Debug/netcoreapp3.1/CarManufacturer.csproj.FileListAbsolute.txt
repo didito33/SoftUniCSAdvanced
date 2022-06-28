@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\CarManufacturer\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\bin\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.exe
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\bin\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.deps.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\bin\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\bin\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\bin\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.dll
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\bin\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.pdb
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.dll
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.pdb
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\02.Mario\obj\Debug\netcoreapp3.1\02.Mario---ToList.IndexOf.genruntimeconfig.cache

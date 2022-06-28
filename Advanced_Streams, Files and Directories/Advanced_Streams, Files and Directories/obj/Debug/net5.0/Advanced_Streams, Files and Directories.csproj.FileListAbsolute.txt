@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\Advanced_Streams, Files and Directories.exe
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\Advanced_Streams, Files and Directories.deps.json
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\Advanced_Streams, Files and Directories.runtimeconfig.json
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\Advanced_Streams, Files and Directories.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\Advanced_Streams, Files and Directories.dll
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\ref\Advanced_Streams, Files and Directories.dll
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\bin\Debug\net5.0\Advanced_Streams, Files and Directories.pdb
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.dll
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\ref\Advanced_Streams, Files and Directories.dll
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.pdb
+C:\Users\Deivid\source\repos\Intro\Advanced_Streams, Files and Directories\obj\Debug\net5.0\Advanced_Streams, Files and Directories.genruntimeconfig.cache

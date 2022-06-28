@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\Lab 08.Ranking.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\Lab 08.Ranking.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\Lab 08.Ranking.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\Lab 08.Ranking.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\Lab 08.Ranking.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\ref\Lab 08.Ranking.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\bin\Debug\net5.0\Lab 08.Ranking.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\ref\Lab 08.Ranking.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 08.Ranking\obj\Debug\net5.0\Lab 08.Ranking.genruntimeconfig.cache

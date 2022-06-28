@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lekciq 04.BiggestSquare/1.0.0": {
+        "runtime": {
+          "Lekciq 04.BiggestSquare.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekciq 04.BiggestSquare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\bin\Debug\netcoreapp3.1\03.BinarySearch.exe
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\bin\Debug\netcoreapp3.1\03.BinarySearch.deps.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\bin\Debug\netcoreapp3.1\03.BinarySearch.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\bin\Debug\netcoreapp3.1\03.BinarySearch.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\bin\Debug\netcoreapp3.1\03.BinarySearch.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\bin\Debug\netcoreapp3.1\03.BinarySearch.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\03.BinarySearch\obj\Debug\netcoreapp3.1\03.BinarySearch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\bin\Debug\netcoreapp3.1\DictMapAttempt.exe
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\bin\Debug\netcoreapp3.1\DictMapAttempt.deps.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\bin\Debug\netcoreapp3.1\DictMapAttempt.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\bin\Debug\netcoreapp3.1\DictMapAttempt.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\bin\Debug\netcoreapp3.1\DictMapAttempt.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\bin\Debug\netcoreapp3.1\DictMapAttempt.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\DictMapAttempt\obj\Debug\netcoreapp3.1\DictMapAttempt.genruntimeconfig.cache

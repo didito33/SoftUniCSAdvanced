@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\05.FIlter by Age - QKA func Class.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\05.FIlter by Age - QKA func Class.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\05.FIlter by Age - QKA func Class.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\05.FIlter by Age - QKA func Class.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\05.FIlter by Age - QKA func Class.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\ref\05.FIlter by Age - QKA func Class.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\bin\Debug\net5.0\05.FIlter by Age - QKA func Class.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\ref\05.FIlter by Age - QKA func Class.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\05.FIlter by Age\obj\Debug\net5.0\05.FIlter by Age - QKA func Class.genruntimeconfig.cache

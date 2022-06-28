@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.exe
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.deps.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\bin\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\SumOfCoins\obj\Debug\netcoreapp3.1\SumOfCoins.genruntimeconfig.cache

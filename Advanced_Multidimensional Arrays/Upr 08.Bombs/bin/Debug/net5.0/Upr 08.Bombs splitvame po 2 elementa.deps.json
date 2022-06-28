@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Upr 08.Bombs splitvame po 2 elementa/1.0.0": {
+        "runtime": {
+          "Upr 08.Bombs splitvame po 2 elementa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upr 08.Bombs splitvame po 2 elementa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

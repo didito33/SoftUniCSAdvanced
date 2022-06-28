@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Upr 07.Knight Game/1.0.0": {
+        "runtime": {
+          "Upr 07.Knight Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upr 07.Knight Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

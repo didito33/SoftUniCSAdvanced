@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Advanced_Stacks and Queues.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Advanced_Stacks and Queues.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Advanced_Stacks and Queues.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Advanced_Stacks and Queues.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Advanced_Stacks and Queues.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\ref\Advanced_Stacks and Queues.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Advanced_Stacks and Queues.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\ref\Advanced_Stacks and Queues.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Advanced_Stacks and Queues.genruntimeconfig.cache

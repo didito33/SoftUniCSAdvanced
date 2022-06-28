@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\05.CitiesByContinentCountry.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\05.CitiesByContinentCountry.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\05.CitiesByContinentCountry.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\05.CitiesByContinentCountry.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\05.CitiesByContinentCountry.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\ref\05.CitiesByContinentCountry.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\bin\Debug\net5.0\05.CitiesByContinentCountry.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\ref\05.CitiesByContinentCountry.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\05.CitiesByContinentCountry\obj\Debug\net5.0\05.CitiesByContinentCountry.genruntimeconfig.cache

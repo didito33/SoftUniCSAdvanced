@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\Lekciq 01.Reverse Strings.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\Lekciq 01.Reverse Strings.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\Lekciq 01.Reverse Strings.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\Lekciq 01.Reverse Strings.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\Lekciq 01.Reverse Strings.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\ref\Lekciq 01.Reverse Strings.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\bin\Debug\net5.0\Lekciq 01.Reverse Strings.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\ref\Lekciq 01.Reverse Strings.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 01.Reverse Strings\obj\Debug\net5.0\Lekciq 01.Reverse Strings.genruntimeconfig.cache

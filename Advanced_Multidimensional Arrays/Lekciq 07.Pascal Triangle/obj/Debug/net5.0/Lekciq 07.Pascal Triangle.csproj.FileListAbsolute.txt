@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\Lekciq 07.Pascal Triangle.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\Lekciq 07.Pascal Triangle.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\Lekciq 07.Pascal Triangle.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\Lekciq 07.Pascal Triangle.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\Lekciq 07.Pascal Triangle.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\ref\Lekciq 07.Pascal Triangle.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\bin\Debug\net5.0\Lekciq 07.Pascal Triangle.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\ref\Lekciq 07.Pascal Triangle.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 07.Pascal Triangle\obj\Debug\net5.0\Lekciq 07.Pascal Triangle.genruntimeconfig.cache

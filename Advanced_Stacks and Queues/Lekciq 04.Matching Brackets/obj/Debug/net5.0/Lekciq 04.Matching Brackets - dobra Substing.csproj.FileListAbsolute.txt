@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\ref\Lekciq 04.Matching Brackets - dobra Substing.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\bin\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\ref\Lekciq 04.Matching Brackets - dobra Substing.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 04.Matching Brackets\obj\Debug\net5.0\Lekciq 04.Matching Brackets - dobra Substing.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\ref\JaggedArrays.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\bin\Debug\net5.0\JaggedArrays.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\ref\JaggedArrays.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\JaggedArrays\obj\Debug\net5.0\JaggedArrays.genruntimeconfig.cache

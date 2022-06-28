@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\ref\Upr 03.MaximalSum3x3Matrix in bigMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\bin\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\ref\Upr 03.MaximalSum3x3Matrix in bigMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 03.MaximalSum\obj\Debug\net5.0\Upr 03.MaximalSum3x3Matrix in bigMatrix.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\bin\Debug\netcoreapp3.1\Advanced_Generics.exe
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\bin\Debug\netcoreapp3.1\Advanced_Generics.deps.json
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\bin\Debug\netcoreapp3.1\Advanced_Generics.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\bin\Debug\netcoreapp3.1\Advanced_Generics.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\bin\Debug\netcoreapp3.1\Advanced_Generics.dll
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\bin\Debug\netcoreapp3.1\Advanced_Generics.pdb
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.dll
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.pdb
+C:\Users\Deivid\source\repos\Advanced_Generics\Advanced_Generics\obj\Debug\netcoreapp3.1\Advanced_Generics.genruntimeconfig.cache

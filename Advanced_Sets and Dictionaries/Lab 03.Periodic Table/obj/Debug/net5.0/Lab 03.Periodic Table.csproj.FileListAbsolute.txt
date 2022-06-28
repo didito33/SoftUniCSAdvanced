@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\Lab 03.Periodic Table.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\Lab 03.Periodic Table.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\Lab 03.Periodic Table.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\Lab 03.Periodic Table.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\Lab 03.Periodic Table.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\ref\Lab 03.Periodic Table.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\bin\Debug\net5.0\Lab 03.Periodic Table.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\ref\Lab 03.Periodic Table.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 03.Periodic Table\obj\Debug\net5.0\Lab 03.Periodic Table.genruntimeconfig.cache

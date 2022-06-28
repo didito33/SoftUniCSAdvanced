@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\04.Add VAT.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\04.Add VAT.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\04.Add VAT.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\04.Add VAT.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\04.Add VAT.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\ref\04.Add VAT.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\bin\Debug\net5.0\04.Add VAT.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\ref\04.Add VAT.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\ConsoleApp1\obj\Debug\net5.0\04.Add VAT.genruntimeconfig.cache

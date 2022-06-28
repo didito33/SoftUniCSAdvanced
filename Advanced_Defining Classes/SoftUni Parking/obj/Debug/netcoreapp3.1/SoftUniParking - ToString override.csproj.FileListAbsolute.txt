@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking - ToString override.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking - ToString override.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking - ToString override.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking - ToString override.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking - ToString override.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking - ToString override.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking - ToString override.genruntimeconfig.cache

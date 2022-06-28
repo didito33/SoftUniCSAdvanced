@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\Person Getter N Setter.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\Person Getter N Setter.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\Person Getter N Setter.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\Person Getter N Setter.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\Person Getter N Setter.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\ref\Person Getter N Setter.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\bin\Debug\net5.0\Person Getter N Setter.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\ref\Person Getter N Setter.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Person\obj\Debug\net5.0\Person Getter N Setter.genruntimeconfig.cache

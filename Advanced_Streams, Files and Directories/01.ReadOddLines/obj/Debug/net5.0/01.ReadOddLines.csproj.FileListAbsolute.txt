@@ -1,0 +1,31 @@
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.exe
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.deps.json
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.runtimeconfig.json
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\ref\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.pdb
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\ref\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.pdb
+C:\Users\Deivid\source\repos\Intro\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.exe
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.deps.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\ref\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\bin\Debug\net5.0\01.ReadOddLines.pdb
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\ref\01.ReadOddLines.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.pdb
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\01.ReadOddLines\obj\Debug\net5.0\01.ReadOddLines.genruntimeconfig.cache

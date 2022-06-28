@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\Lekciq 02. Sum Matrix Columns.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\Lekciq 02. Sum Matrix Columns.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\Lekciq 02. Sum Matrix Columns.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\Lekciq 02. Sum Matrix Columns.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\Lekciq 02. Sum Matrix Columns.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\ref\Lekciq 02. Sum Matrix Columns.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\bin\Debug\net5.0\Lekciq 02. Sum Matrix Columns.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\ref\Lekciq 02. Sum Matrix Columns.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 02. Sum Matrix Columns\obj\Debug\net5.0\Lekciq 02. Sum Matrix Columns.genruntimeconfig.cache

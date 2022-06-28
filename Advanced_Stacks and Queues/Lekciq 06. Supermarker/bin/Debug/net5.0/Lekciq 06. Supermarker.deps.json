@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lekciq 06. Supermarker/1.0.0": {
+        "runtime": {
+          "Lekciq 06. Supermarker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekciq 06. Supermarker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

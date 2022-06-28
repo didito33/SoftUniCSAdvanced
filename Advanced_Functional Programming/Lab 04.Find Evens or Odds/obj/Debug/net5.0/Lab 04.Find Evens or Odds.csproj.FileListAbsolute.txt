@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\Lab 04.Find Evens or Odds.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\Lab 04.Find Evens or Odds.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\Lab 04.Find Evens or Odds.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\Lab 04.Find Evens or Odds.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\Lab 04.Find Evens or Odds.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\ref\Lab 04.Find Evens or Odds.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\bin\Debug\net5.0\Lab 04.Find Evens or Odds.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\ref\Lab 04.Find Evens or Odds.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 04.Find Evens or Odds\obj\Debug\net5.0\Lab 04.Find Evens or Odds.genruntimeconfig.cache

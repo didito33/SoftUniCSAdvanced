@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue printira Queue.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue printira Queue.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue printira Queue.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue printira Queue.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue printira Queue.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\ref\Upr 06. Songs Queue printira Queue.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue printira Queue.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\ref\Upr 06. Songs Queue printira Queue.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue printira Queue.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\Action.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\Action.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\Action.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\Action.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\Action.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\ref\Action.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\bin\Debug\net5.0\Action.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\ref\Action.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Action\obj\Debug\net5.0\Action.csproj.AssemblyReference.cache

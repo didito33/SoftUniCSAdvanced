@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "05.FIlter by Age - QKA func Class/1.0.0": {
+        "runtime": {
+          "05.FIlter by Age - QKA func Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "05.FIlter by Age - QKA func Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

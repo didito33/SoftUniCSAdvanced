@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\bin\Debug\netcoreapp3.1\Intro.exe
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\bin\Debug\netcoreapp3.1\Intro.deps.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\bin\Debug\netcoreapp3.1\Intro.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\bin\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Advanced_Iterators and Comparators\obj\Debug\netcoreapp3.1\Intro.genruntimeconfig.cache

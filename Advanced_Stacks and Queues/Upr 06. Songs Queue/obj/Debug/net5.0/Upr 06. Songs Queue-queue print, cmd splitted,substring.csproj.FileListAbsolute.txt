@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\ref\Upr 06. Songs Queue-queue print, cmd splitted,substring.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\bin\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\ref\Upr 06. Songs Queue-queue print, cmd splitted,substring.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Upr 06. Songs Queue\obj\Debug\net5.0\Upr 06. Songs Queue-queue print, cmd splitted,substring.genruntimeconfig.cache

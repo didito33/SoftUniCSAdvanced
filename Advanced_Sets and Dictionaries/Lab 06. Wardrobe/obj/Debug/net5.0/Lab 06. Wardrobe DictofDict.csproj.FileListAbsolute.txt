@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\ref\Lab 06. Wardrobe DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\ref\Lab 06. Wardrobe DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict.genruntimeconfig.cache

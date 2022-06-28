@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\Lab 07.Predicate For Names.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\Lab 07.Predicate For Names.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\Lab 07.Predicate For Names.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\Lab 07.Predicate For Names.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\Lab 07.Predicate For Names.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\ref\Lab 07.Predicate For Names.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\bin\Debug\net5.0\Lab 07.Predicate For Names.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\ref\Lab 07.Predicate For Names.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab 07.Predicate For Names\obj\Debug\net5.0\Lab 07.Predicate For Names.genruntimeconfig.cache

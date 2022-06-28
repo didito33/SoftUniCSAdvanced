@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\Upr 04. Matrix Swapping.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\Upr 04. Matrix Swapping.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\Upr 04. Matrix Swapping.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\Upr 04. Matrix Swapping.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\Upr 04. Matrix Swapping.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\ref\Upr 04. Matrix Swapping.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\bin\Debug\net5.0\Upr 04. Matrix Swapping.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\ref\Upr 04. Matrix Swapping.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 04. Matrix Swapping\obj\Debug\net5.0\Upr 04. Matrix Swapping.genruntimeconfig.cache

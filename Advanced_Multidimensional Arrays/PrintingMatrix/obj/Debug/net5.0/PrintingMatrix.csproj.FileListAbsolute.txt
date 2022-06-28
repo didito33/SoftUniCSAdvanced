@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\PrintingMatrix.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\PrintingMatrix.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\PrintingMatrix.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\PrintingMatrix.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\PrintingMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\ref\PrintingMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\bin\Debug\net5.0\PrintingMatrix.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\ref\PrintingMatrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\PrintingMatrix\obj\Debug\net5.0\PrintingMatrix.genruntimeconfig.cache

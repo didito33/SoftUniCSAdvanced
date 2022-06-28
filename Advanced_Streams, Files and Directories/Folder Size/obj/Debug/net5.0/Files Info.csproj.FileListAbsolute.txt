@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Files Info.exe
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Files Info.deps.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Files Info.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Files Info.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Files Info.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\ref\Files Info.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Files Info.pdb
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\ref\Files Info.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.pdb
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Files Info.genruntimeconfig.cache

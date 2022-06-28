@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\bin\Debug\netcoreapp3.1\02. SecondAttempt.exe
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\bin\Debug\netcoreapp3.1\02. SecondAttempt.deps.json
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\bin\Debug\netcoreapp3.1\02. SecondAttempt.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\bin\Debug\netcoreapp3.1\02. SecondAttempt.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\bin\Debug\netcoreapp3.1\02. SecondAttempt.dll
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\bin\Debug\netcoreapp3.1\02. SecondAttempt.pdb
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.dll
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.pdb
+C:\Users\Deivid\source\repos\Advanced_Exam\02. SecondAttempt\obj\Debug\netcoreapp3.1\02. SecondAttempt.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\0.Static.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\0.Static.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\0.Static.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\0.Static.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\0.Static.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\ref\0.Static.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\bin\Debug\net5.0\0.Static.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\ref\0.Static.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\0.Static\obj\Debug\net5.0\0.Static.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\Lekciq 03.Primary Diagonal.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\Lekciq 03.Primary Diagonal.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\Lekciq 03.Primary Diagonal.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\Lekciq 03.Primary Diagonal.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\Lekciq 03.Primary Diagonal.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\ref\Lekciq 03.Primary Diagonal.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\bin\Debug\net5.0\Lekciq 03.Primary Diagonal.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\ref\Lekciq 03.Primary Diagonal.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 03.Primary Diagonal\obj\Debug\net5.0\Lekciq 03.Primary Diagonal.genruntimeconfig.cache

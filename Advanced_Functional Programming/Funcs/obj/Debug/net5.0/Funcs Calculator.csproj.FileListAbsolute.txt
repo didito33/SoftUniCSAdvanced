@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\Funcs Calculator.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\Funcs Calculator.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\Funcs Calculator.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\Funcs Calculator.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\Funcs Calculator.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\ref\Funcs Calculator.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\bin\Debug\net5.0\Funcs Calculator.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\ref\Funcs Calculator.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Funcs\obj\Debug\net5.0\Funcs Calculator.genruntimeconfig.cache

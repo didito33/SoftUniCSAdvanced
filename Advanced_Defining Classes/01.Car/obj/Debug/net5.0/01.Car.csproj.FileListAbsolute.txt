@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\01.Car.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\01.Car.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\01.Car.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\01.Car.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\01.Car.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\ref\01.Car.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\bin\Debug\net5.0\01.Car.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\ref\01.Car.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\01.Car\obj\Debug\net5.0\01.Car.genruntimeconfig.cache

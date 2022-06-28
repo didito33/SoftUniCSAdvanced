@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\ref\Lekciq 01.Sum Matrix Elemenets.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\bin\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\ref\Lekciq 01.Sum Matrix Elemenets.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 01.Sum Matrix Elemenets\obj\Debug\net5.0\Lekciq 01.Sum Matrix Elemenets.genruntimeconfig.cache

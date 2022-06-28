@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\bin\Debug\netcoreapp3.1\Advanced_Exam.exe
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\bin\Debug\netcoreapp3.1\Advanced_Exam.deps.json
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\bin\Debug\netcoreapp3.1\Advanced_Exam.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\bin\Debug\netcoreapp3.1\Advanced_Exam.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\bin\Debug\netcoreapp3.1\Advanced_Exam.dll
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\bin\Debug\netcoreapp3.1\Advanced_Exam.pdb
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.dll
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.pdb
+C:\Users\Deivid\source\repos\Advanced_Exam\Advanced_Exam\obj\Debug\netcoreapp3.1\Advanced_Exam.genruntimeconfig.cache

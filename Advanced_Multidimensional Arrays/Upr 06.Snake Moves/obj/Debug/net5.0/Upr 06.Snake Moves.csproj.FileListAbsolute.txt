@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\Upr 06.Snake Moves.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\Upr 06.Snake Moves.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\Upr 06.Snake Moves.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\Upr 06.Snake Moves.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\Upr 06.Snake Moves.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\ref\Upr 06.Snake Moves.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\bin\Debug\net5.0\Upr 06.Snake Moves.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\ref\Upr 06.Snake Moves.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Snake Moves\obj\Debug\net5.0\Upr 06.Snake Moves.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\Lekciq 07.Hot Potato.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\Lekciq 07.Hot Potato.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\Lekciq 07.Hot Potato.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\Lekciq 07.Hot Potato.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\Lekciq 07.Hot Potato.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\ref\Lekciq 07.Hot Potato.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\bin\Debug\net5.0\Lekciq 07.Hot Potato.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\ref\Lekciq 07.Hot Potato.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 07.Hot Potato\obj\Debug\net5.0\Lekciq 07.Hot Potato.genruntimeconfig.cache

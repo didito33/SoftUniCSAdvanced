@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.exe
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.deps.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.dll
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\bin\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.pdb
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.dll
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.pdb
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\ClassroomProject\obj\Debug\netcoreapp3.1\ClassroomProject---FirstOrDefault_Where.genruntimeconfig.cache

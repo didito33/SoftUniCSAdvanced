@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\06.Unique Names.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\06.Unique Names.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\06.Unique Names.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\06.Unique Names.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\06.Unique Names.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\ref\06.Unique Names.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\bin\Debug\net5.0\06.Unique Names.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\ref\06.Unique Names.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\06.Unique Names\obj\Debug\net5.0\06.Unique Names.genruntimeconfig.cache

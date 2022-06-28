@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\bin\Debug\netcoreapp3.1\Library Iterator Comparer.exe
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\bin\Debug\netcoreapp3.1\Library Iterator Comparer.deps.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\bin\Debug\netcoreapp3.1\Library Iterator Comparer.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\bin\Debug\netcoreapp3.1\Library Iterator Comparer.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\bin\Debug\netcoreapp3.1\Library Iterator Comparer.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\bin\Debug\netcoreapp3.1\Library Iterator Comparer.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\Library Iterator\obj\Debug\netcoreapp3.1\Library Iterator Comparer.genruntimeconfig.cache

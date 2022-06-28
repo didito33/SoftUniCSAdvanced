@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\ref\Upr 08.Bombs splitvame po 2 elementa.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\bin\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\ref\Upr 08.Bombs splitvame po 2 elementa.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 08.Bombs\obj\Debug\net5.0\Upr 08.Bombs splitvame po 2 elementa.genruntimeconfig.cache

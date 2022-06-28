@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Folder Size.exe
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Folder Size.deps.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Folder Size.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Folder Size.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Folder Size.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\ref\Folder Size.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\bin\Debug\net5.0\Folder Size.pdb
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\ref\Folder Size.dll
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.pdb
+C:\Users\Deivid\source\repos\Advanced_Streams, Files and Directories\Folder Size\obj\Debug\net5.0\Folder Size.genruntimeconfig.cache

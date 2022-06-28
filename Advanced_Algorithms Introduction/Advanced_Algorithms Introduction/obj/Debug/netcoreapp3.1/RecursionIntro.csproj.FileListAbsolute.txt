@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\bin\Debug\netcoreapp3.1\RecursionIntro.exe
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\bin\Debug\netcoreapp3.1\RecursionIntro.deps.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\bin\Debug\netcoreapp3.1\RecursionIntro.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\bin\Debug\netcoreapp3.1\RecursionIntro.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\bin\Debug\netcoreapp3.1\RecursionIntro.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\bin\Debug\netcoreapp3.1\RecursionIntro.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\Advanced_Algorithms Introduction\obj\Debug\netcoreapp3.1\RecursionIntro.genruntimeconfig.cache

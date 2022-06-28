@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\01.CountSameValues.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\01.CountSameValues.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\01.CountSameValues.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\01.CountSameValues.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\01.CountSameValues.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\ref\01.CountSameValues.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\bin\Debug\net5.0\01.CountSameValues.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\ref\01.CountSameValues.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\01.CountSameValues\obj\Debug\net5.0\01.CountSameValues.genruntimeconfig.cache

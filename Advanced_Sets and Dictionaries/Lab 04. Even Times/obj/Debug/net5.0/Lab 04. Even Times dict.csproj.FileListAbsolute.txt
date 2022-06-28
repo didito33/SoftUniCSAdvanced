@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\Lab 04. Even Times dict.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\Lab 04. Even Times dict.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\Lab 04. Even Times dict.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\Lab 04. Even Times dict.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\Lab 04. Even Times dict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\ref\Lab 04. Even Times dict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\bin\Debug\net5.0\Lab 04. Even Times dict.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\ref\Lab 04. Even Times dict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 04. Even Times\obj\Debug\net5.0\Lab 04. Even Times dict.genruntimeconfig.cache

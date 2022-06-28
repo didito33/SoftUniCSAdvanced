@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\bin\Debug\netcoreapp3.1\SAA - 1st task.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\bin\Debug\netcoreapp3.1\SAA - 1st task.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\bin\Debug\netcoreapp3.1\SAA - 1st task.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\bin\Debug\netcoreapp3.1\SAA - 1st task.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\bin\Debug\netcoreapp3.1\SAA - 1st task.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\bin\Debug\netcoreapp3.1\SAA - 1st task.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\SAA - 1st task\obj\Debug\netcoreapp3.1\SAA - 1st task.genruntimeconfig.cache

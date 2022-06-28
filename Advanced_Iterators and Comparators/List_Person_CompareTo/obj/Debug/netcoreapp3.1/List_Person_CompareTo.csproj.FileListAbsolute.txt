@@ -1,0 +1,13 @@
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\bin\Debug\netcoreapp3.1\List_Person_CompareTo.exe
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\bin\Debug\netcoreapp3.1\List_Person_CompareTo.deps.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\bin\Debug\netcoreapp3.1\List_Person_CompareTo.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\bin\Debug\netcoreapp3.1\List_Person_CompareTo.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\bin\Debug\netcoreapp3.1\List_Person_CompareTo.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\bin\Debug\netcoreapp3.1\List_Person_CompareTo.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.dll
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.pdb
+C:\Users\Deivid\source\repos\Advanced_Iterators and Comparators\List_Person_CompareTo\obj\Debug\netcoreapp3.1\List_Person_CompareTo.genruntimeconfig.cache

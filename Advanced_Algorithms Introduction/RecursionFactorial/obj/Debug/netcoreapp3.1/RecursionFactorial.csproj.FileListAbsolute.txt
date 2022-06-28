@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\bin\Debug\netcoreapp3.1\RecursionFactorial.exe
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\bin\Debug\netcoreapp3.1\RecursionFactorial.deps.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\bin\Debug\netcoreapp3.1\RecursionFactorial.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\bin\Debug\netcoreapp3.1\RecursionFactorial.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\bin\Debug\netcoreapp3.1\RecursionFactorial.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\bin\Debug\netcoreapp3.1\RecursionFactorial.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\RecursionFactorial\obj\Debug\netcoreapp3.1\RecursionFactorial.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\ref\Upr 10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\bin\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\ref\Upr 10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 10. Radioactive Mutant Vampire Bunnies\obj\Debug\net5.0\Upr 10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache

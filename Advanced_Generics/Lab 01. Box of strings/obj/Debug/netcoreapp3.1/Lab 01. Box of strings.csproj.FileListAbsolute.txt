@@ -1,0 +1,13 @@
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\bin\Debug\netcoreapp3.1\Lab 01. Box of strings.exe
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\bin\Debug\netcoreapp3.1\Lab 01. Box of strings.deps.json
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\bin\Debug\netcoreapp3.1\Lab 01. Box of strings.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\bin\Debug\netcoreapp3.1\Lab 01. Box of strings.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\bin\Debug\netcoreapp3.1\Lab 01. Box of strings.dll
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\bin\Debug\netcoreapp3.1\Lab 01. Box of strings.pdb
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.dll
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.pdb
+C:\Users\Deivid\source\repos\Advanced_Generics\Lab 01. Box of strings\obj\Debug\netcoreapp3.1\Lab 01. Box of strings.genruntimeconfig.cache

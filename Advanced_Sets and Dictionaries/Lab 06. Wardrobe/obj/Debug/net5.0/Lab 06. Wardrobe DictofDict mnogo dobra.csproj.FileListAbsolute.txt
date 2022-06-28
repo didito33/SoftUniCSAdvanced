@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\ref\Lab 06. Wardrobe DictofDict mnogo dobra.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\bin\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\ref\Lab 06. Wardrobe DictofDict mnogo dobra.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\Lab 06. Wardrobe\obj\Debug\net5.0\Lab 06. Wardrobe DictofDict mnogo dobra.genruntimeconfig.cache

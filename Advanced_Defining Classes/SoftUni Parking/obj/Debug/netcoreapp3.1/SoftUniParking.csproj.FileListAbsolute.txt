@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\bin\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\SoftUni Parking\obj\Debug\netcoreapp3.1\SoftUniParking.csproj.AssemblyReference.cache

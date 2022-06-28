@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict - QKA.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict - QKA.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict - QKA.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict - QKA.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict - QKA.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\ref\04.Product Shop DictofDict - QKA.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict - QKA.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\ref\04.Product Shop DictofDict - QKA.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict - QKA.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Upr 04. Matrix Swapping/1.0.0": {
+        "runtime": {
+          "Upr 04. Matrix Swapping.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upr 04. Matrix Swapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

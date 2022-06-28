@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\Lab02.Knight of Honor.exe
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\Lab02.Knight of Honor.deps.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\Lab02.Knight of Honor.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\Lab02.Knight of Honor.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\Lab02.Knight of Honor.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\ref\Lab02.Knight of Honor.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\bin\Debug\net5.0\Lab02.Knight of Honor.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\ref\Lab02.Knight of Honor.dll
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.pdb
+C:\Users\Deivid\source\repos\Advanced_Functional Programming\Lab02.Knight of Honor\obj\Debug\net5.0\Lab02.Knight of Honor.genruntimeconfig.cache

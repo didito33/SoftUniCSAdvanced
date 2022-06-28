@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\OrderBy.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\OrderBy.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\OrderBy.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\OrderBy.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\OrderBy.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\ref\OrderBy.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\bin\Debug\net5.0\OrderBy.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\ref\OrderBy.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\OrderBy\obj\Debug\net5.0\OrderBy.genruntimeconfig.cache

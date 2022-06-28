@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\Queue intro.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\Queue intro.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\Queue intro.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\Queue intro.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\Queue intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\ref\Queue intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\bin\Debug\net5.0\Queue intro.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\ref\Queue intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Queue intro\obj\Debug\net5.0\Queue intro.genruntimeconfig.cache

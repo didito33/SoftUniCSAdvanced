@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\0.Enumerations.exe
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\0.Enumerations.deps.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\0.Enumerations.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\0.Enumerations.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\0.Enumerations.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\ref\0.Enumerations.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\bin\Debug\net5.0\0.Enumerations.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\ref\0.Enumerations.dll
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.pdb
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\Advanced_Defining Classes\Enumerations\obj\Debug\net5.0\0.Enumerations.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Stacks intro.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Stacks intro.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Stacks intro.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Stacks intro.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Stacks intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\ref\Stacks intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\bin\Debug\net5.0\Stacks intro.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\ref\Stacks intro.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Advanced_Stacks and Queues\obj\Debug\net5.0\Stacks intro.genruntimeconfig.cache

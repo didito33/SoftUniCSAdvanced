@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\Lekciq 04.Symbol in Matrix.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\Lekciq 04.Symbol in Matrix.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\Lekciq 04.Symbol in Matrix.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\Lekciq 04.Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\Lekciq 04.Symbol in Matrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\ref\Lekciq 04.Symbol in Matrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\bin\Debug\net5.0\Lekciq 04.Symbol in Matrix.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\ref\Lekciq 04.Symbol in Matrix.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Lekciq 04.Symbol in Matrix\obj\Debug\net5.0\Lekciq 04.Symbol in Matrix.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.exe
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.deps.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\ref\Upr 06.Jagged Array Manipulator - lots of Methods.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\bin\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\ref\Upr 06.Jagged Array Manipulator - lots of Methods.dll
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.pdb
+C:\Users\Deivid\source\repos\Advanced_Multidimensional Arrays\Upr 06.Jagged Array Manipulator\obj\Debug\net5.0\Upr 06.Jagged Array Manipulator - lots of Methods.genruntimeconfig.cache

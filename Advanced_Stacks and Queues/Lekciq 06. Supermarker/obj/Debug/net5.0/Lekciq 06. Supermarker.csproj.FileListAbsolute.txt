@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\Lekciq 06. Supermarker.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\Lekciq 06. Supermarker.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\Lekciq 06. Supermarker.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\Lekciq 06. Supermarker.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\Lekciq 06. Supermarker.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\ref\Lekciq 06. Supermarker.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\bin\Debug\net5.0\Lekciq 06. Supermarker.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\ref\Lekciq 06. Supermarker.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 06. Supermarker\obj\Debug\net5.0\Lekciq 06. Supermarker.genruntimeconfig.cache

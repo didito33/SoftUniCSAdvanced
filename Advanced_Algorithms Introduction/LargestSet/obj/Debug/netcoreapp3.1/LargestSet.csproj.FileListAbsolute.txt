@@ -1,0 +1,13 @@
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\bin\Debug\netcoreapp3.1\LargestSet.exe
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\bin\Debug\netcoreapp3.1\LargestSet.deps.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\bin\Debug\netcoreapp3.1\LargestSet.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\bin\Debug\netcoreapp3.1\LargestSet.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\bin\Debug\netcoreapp3.1\LargestSet.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\bin\Debug\netcoreapp3.1\LargestSet.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\LargestSet\obj\Debug\netcoreapp3.1\LargestSet.genruntimeconfig.cache

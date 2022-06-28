@@ -1,0 +1,13 @@
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\02.BubbleSort.exe
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\02.BubbleSort.deps.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\02.BubbleSort.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\02.BubbleSort.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\02.BubbleSort.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\02.BubbleSort.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.dll
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.pdb
+C:\Users\Deivid\source\repos\Advanced_Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\02.BubbleSort.genruntimeconfig.cache

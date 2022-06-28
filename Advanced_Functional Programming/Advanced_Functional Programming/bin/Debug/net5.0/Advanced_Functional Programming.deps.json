@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Advanced_Functional Programming/1.0.0": {
+        "runtime": {
+          "Advanced_Functional Programming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Advanced_Functional Programming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

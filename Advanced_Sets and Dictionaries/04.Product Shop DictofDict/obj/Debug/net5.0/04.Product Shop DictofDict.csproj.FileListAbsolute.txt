@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict.exe
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict.deps.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\ref\04.Product Shop DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\bin\Debug\net5.0\04.Product Shop DictofDict.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\ref\04.Product Shop DictofDict.dll
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.pdb
+C:\Users\Deivid\source\repos\Advanced_Sets and Dictionaries\04.Product Shop DictofDict\obj\Debug\net5.0\04.Product Shop DictofDict.genruntimeconfig.cache

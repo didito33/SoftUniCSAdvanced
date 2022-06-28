@@ -1,0 +1,16 @@
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.exe
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.deps.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\ref\Lekciq 03.Simple Calculator - stack Reverse.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\bin\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\ref\Lekciq 03.Simple Calculator - stack Reverse.dll
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.pdb
+C:\Users\Deivid\source\repos\Advanced_Stacks and Queues\Lekciq 03.Simple Calculator\obj\Debug\net5.0\Lekciq 03.Simple Calculator - stack Reverse.genruntimeconfig.cache

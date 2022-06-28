@@ -1,0 +1,14 @@
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\bin\Debug\netcoreapp3.1\05.BattleShips.exe
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\bin\Debug\netcoreapp3.1\05.BattleShips.deps.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\bin\Debug\netcoreapp3.1\05.BattleShips.runtimeconfig.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\bin\Debug\netcoreapp3.1\05.BattleShips.runtimeconfig.dev.json
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\bin\Debug\netcoreapp3.1\05.BattleShips.dll
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\bin\Debug\netcoreapp3.1\05.BattleShips.pdb
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.dll
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.pdb
+C:\Users\Deivid\source\repos\Advanced_ExamPrep\05.BattleShips\obj\Debug\netcoreapp3.1\05.BattleShips.genruntimeconfig.cache
